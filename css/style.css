@@ -6,7 +6,7 @@
   }
   
   body {
-    background-color: #090e22;
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@
   .container {
     min-width: 400px;
     min-height: 400px;
-    background-color: #1d1e33;
+    background-color: #0C151D;
     padding: 2rem;
   }
   
@@ -64,7 +64,7 @@
   button {
     text-transform: uppercase;
     padding: 1rem 1.5rem;
-    background-color: #f44236;
+    background-color: #2F9BF4;
     border: none;
     color: #fff;
     cursor: pointer;
